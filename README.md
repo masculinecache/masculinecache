@@ -1,17 +1,16 @@
 Hi 👋 My name is Darren Slocum
 ==============================
 
-Platform Engineer and Linux Nerd
+Platform Engineer and Nerd Accelerationist
 --------------------------------
 
 - 🌍 I'm based in Remote
-- ✉️ You can contact me at [darren.slocum@gmail.com](mailto:darren.slocum@gmail.com) 🔭 I’m currently working on VMWare, kubernetes, Azure CI/CD, Rancher Desktop, SQL Server, .NET, Cyprus, node, Angular
-- 🌱 I’m currently learning golang
-- 👯 I’m looking to collaborate on Linux
-- 🤔 I’m looking for help with Serverless
-- 💬 Ask me about Linux
-- 📫 How to reach me: darren.slocum@gmail.com
-- 😄 Pronouns: are inacurate speech.  If you insist please use my proper name, even in the third person plural.
+- ✉️ Contact: [Linkedin](https://www.linkedin.com/in/darrenslocum/) will get my immediate attentions, and then there's always email [darren.slocum@gmail.com](mailto:darren.slocum@gmail.com)
+- 🔭 I’m currently working on AI, kubernetes, Azure CI/CD, SQL Server, .NET, Cyprus, node, Angular
+- 🌱 I’m currently learning golang, htmx, templ, alpine.js, and how to minimize token usage.
+- 👯 I’m looking to collaborate on mesh radio
+- 💬 Ask me about the Story of Mel, the best programmer in history
+- 😄 Pronouns: are inaccurate speech.  To show respect to me as an individual please use my proper name, even in the third person plural.
 - ⚡ Fun fact: I'm a black belt in Five Star Meihuaquan (梅花拳)
 
 <p align="left">
